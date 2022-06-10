@@ -1,8 +1,10 @@
 <h1 align="center">&lt; Hello 👋, I'm Guillaume /&gt;</h1>
-<h3 align="center">A french 19 years old student passionate about IT development, philosophy and music</h3>
+<h3 align="center">A french 19 years old student passionate about IT development 💻, philosophy 📖 and music 🎵</h3>
+
+<hr />
 
 <p align="center">
-  <img height="300px" width = "500px" src="https://github-readme-stats.vercel.app/api?username=gfroidcourt&theme=material-palenight&show_icons=true&count_private=true">
+  <img height="200px" width = "400px" src="https://github-readme-stats.vercel.app/api?username=gfroidcourt&theme=material-palenight&show_icons=true&count_private=true">
 </p>
 
 <h2 align="center">👀 Favorites languages and technologies 👀</h2>
@@ -29,7 +31,7 @@
 <h2 align="center"> 🔥 One of my favorites projects 🔥 </h2>
 
 <p align="center">
-<img height="300px" width = "500px" src="https://github-readme-stats.vercel.app/api/pin/?username=gfroidcourt&repo=iut-onboarding&theme=material-palenight">
+<img height="200px" width = "400px" src="https://github-readme-stats.vercel.app/api/pin/?username=gfroidcourt&repo=iut-onboarding&theme=material-palenight">
      
 </p>
  
