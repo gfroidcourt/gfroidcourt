@@ -9,6 +9,8 @@
 
 <h2 align="center">👀 Favorites languages and technologies 👀</h2>
 
+<br />
+
 <p align="center">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
