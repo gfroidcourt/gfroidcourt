@@ -33,7 +33,7 @@
 <h2 align="center"> 🔥 One of my favorites projects 🔥 </h2>
 
 <p align="center">
-<img height="200px" width = "400px" src="https://github-readme-stats.vercel.app/api/pin/?username=gfroidcourt&repo=iut-onboarding&theme=material-palenight">
+<a href="https://github.com/gfroidcourt/iut-onboarding"><img height="200px" width = "400px" src="https://github-readme-stats.vercel.app/api/pin/?username=gfroidcourt&repo=iut-onboarding&theme=material-palenight"></a>
      
 </p>
  
