@@ -4,8 +4,8 @@
 <hr />
 
 <p align="center">
-  <img width="200px" src="https://github-readme-stats.vercel.app/api?username=gfroidcourt&theme=material-palenight&show_icons=true&count_private=true">
-  <img width="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gfroidcourt&theme=material-palenight&hide_border=true&layout=compact&langs_count=4"> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=gfroidcourt&theme=material-palenight&show_icons=true&count_private=true">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=gfroidcourt&theme=material-palenight&hide_border=true&layout=compact&langs_count=4"> 
   </p>
 </br>
 <h2 align="center">👀 Favorites languages and technologies 👀</h2>
