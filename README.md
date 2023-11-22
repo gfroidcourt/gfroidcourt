@@ -37,4 +37,9 @@
 <a href="https://github.com/gfroidcourt/iut-onboarding" target="_blank"><img height="200px" width = "400px" src="https://github-readme-stats.vercel.app/api/pin/?username=gfroidcourt&repo=iut-onboarding&theme=material-palenight"></a>
      
 </p>
- 
+
+<br />
+
+<h2 align="center"> 🎧 I am currently listening to (while probably coding) 🎧 </h2>
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31mqza24cpreeyozkrzjg5py2djm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
