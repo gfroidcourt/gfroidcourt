@@ -1,5 +1,5 @@
 <h1 align="center">&lt; Hello 👋, I'm Guillaume /&gt;</h1>
-<h3 align="center">A french 21 years old student passionate about IT development 💻, philosophy 📖 and music 🎵</h3>
+<h3 align="center">A french 22 years old student passionate about IT development 💻, philosophy 📖 and music 🎵</h3>
 
 <hr />
 
